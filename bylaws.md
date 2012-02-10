@@ -6,41 +6,24 @@
 
 == <li>ORGANIZATION</li> ==
 
-1.HSL shall be governed by a body of officers henceforth known as the Board of Directors.  The Board of Directors shall exercise authority to enact its decisions upon the membership.  Offices of the Board of Directors will be distinguished according to a particular operational task in a flat hierarchy.  Definitive authority shall be given to no office in particular, but to a majority vote of a quorum of voting officers. These offices established will include, but are not limited to, the following:
-
+#HSL shall be governed by a body of officers henceforth known as the Board of Directors.  The Board of Directors shall exercise authority to enact its decisions upon the membership.  Offices of the Board of Directors will be distinguished according to a particular operational task in a flat hierarchy.  Definitive authority shall be given to no office in particular, but to a majority vote of a quorum of voting officers. These offices established will include, but are not limited to, the following:
 A)Champion: The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws.  This office may be occupied by multiple officers, the total of which may not exceed two.  Each officer will receive a full vote on the Board of Directors.
-
 B)Treasurer: The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
-
 C)Marketing Director: The office of Marketing Director shall be responsible for press releases, endeavors in social media, and promotion of HSL in general.
-
 D)Secretary: The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities.  Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations.
-
 E)Editor: The office of Editor shall be responsible for the oversight of content presented on the HSL website and wiki.  Additionally, the office of Editor shall be responsible for editing submitted content to meet a level of quality acceptable to the Board of Directors and shall actively recruit contributors for content entries.
-
 F)Information Technology (IT) Administrator: The office of IT Administrator shall be responsible for the oversight of HSL technological assets and maintain their operation and security.  This office may be occupied by multiple officers, the total of which may not exceed two.  Each officer will receive a full vote on the Board of Directors.
-
-2.Each officer in the Board of Directors must be elected into office by a majority election of voting HSL members for a term of one (1) year.  Interim-officers may be elected into office by the Board of Directors under the conditions described in Article II, Section 7.  An officer may serve an unlimited number of terms.
-
-3.Candidates for offices in the Board of Directors must be dues-paid members in good standing with these bylaws.
-
-4.Elections for the offices of the Board of Directors shall take place at the first membership meeting of the month of October of the Gregorian year.
-
-5.For elections pertaining to an office which allows the election of multiple officers in its office, an explicit “ABSTAIN” vote may be accounted as a vote of no confidence for any candidate, and shall be counted no differently than a vote for a candidate, which an election victory for abstain votes resulting in an office vacancy.
-
-6.An officer may resign from an office upon the receipt of physically or electronically written notice of said resignation to the remaining officers of the Board of Directors.
-
-7.In the event that an officer of the Board of Directors becomes incapacitated, deceased, zombified, becomes a vampire, or resigns from office, a quorum of remaining officers in the Board of Directors shall elect a replacement interim-officer at the Board of Directors meeting following the resignation.  An interim-officer's term shall be effective from the day of election by the Board of Directors to the remainder of the outgoing officer's elected term.
-
-8.An officer of the Board of Directors may be removed from office by the unanimous vote of the  remaining officers in a Board of Directors meeting if it the officer in question is found to be in violation of the bylaws, fails to fulfill office responsibilities, or is found in breach of the laws of Maricopa County, the State of Arizona, the United States Federal Government, the Geneva Convention, or the United Federation of Planets.
-
-9.The Board of Directors shall convene on the second and fourth Thursday of the month to conduct business and enact decisions regarding the operations and administration of HSL.
-
-10.Ad-hoc committees of members may be established by an office of the Board of Directors for any purpose relevant to the responsibilities of that office.  Members of that committee may be appointed or removed at the discretion of the office that created it.
-
-11.All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.
-
-12.A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.
+#Each officer in the Board of Directors must be elected into office by a majority election of voting HSL members for a term of one (1) year.  Interim-officers may be elected into office by the Board of Directors under the conditions described in Article II, Section 7.  An officer may serve an unlimited number of terms.
+#Candidates for offices in the Board of Directors must be dues-paid members in good standing with these bylaws.
+#Elections for the offices of the Board of Directors shall take place at the first membership meeting of the month of October of the Gregorian year.
+#For elections pertaining to an office which allows the election of multiple officers in its office, an explicit “ABSTAIN” vote may be accounted as a vote of no confidence for any candidate, and shall be counted no differently than a vote for a candidate, which an election victory for abstain votes resulting in an office vacancy.
+#An officer may resign from an office upon the receipt of physically or electronically written notice of said resignation to the remaining officers of the Board of Directors.
+#In the event that an officer of the Board of Directors becomes incapacitated, deceased, zombified, becomes a vampire, or resigns from office, a quorum of remaining officers in the Board of Directors shall elect a replacement interim-officer at the Board of Directors meeting following the resignation.  An interim-officer's term shall be effective from the day of election by the Board of Directors to the remainder of the outgoing officer's elected term.
+#An officer of the Board of Directors may be removed from office by the unanimous vote of the  remaining officers in a Board of Directors meeting if it the officer in question is found to be in violation of the bylaws, fails to fulfill office responsibilities, or is found in breach of the laws of Maricopa County, the State of Arizona, the United States Federal Government, the Geneva Convention, or the United Federation of Planets.
+#The Board of Directors shall convene on the second and fourth Thursday of the month to conduct business and enact decisions regarding the operations and administration of HSL.
+#Ad-hoc committees of members may be established by an office of the Board of Directors for any purpose relevant to the responsibilities of that office.  Members of that committee may be appointed or removed at the discretion of the office that created it.
+#All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.
+#A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.
 
 == <li>MEMBERSHIP</li> ==
 
