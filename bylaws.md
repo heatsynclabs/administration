@@ -1,12 +1,10 @@
-== HeatSync Labs Bylaws ==
-
-I.NAME AND PURPOSE
+== #I. NAME AND PURPOSE ==
 
 1.The name of this organization shall be known as HeatSync Labs.
 
 2.The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical environment for the discussion, planning, and construction of collaborative endeavors in the application of technology as well as technological expressions of artwork.
 
-II.ORGANIZATION
+== #II. ORGANIZATION ==
 
 1.HSL shall be governed by a body of officers henceforth known as the Board of Directors.  The Board of Directors shall exercise authority to enact its decisions upon the membership.  Offices of the Board of Directors will be distinguished according to a particular operational task in a flat hierarchy.  Definitive authority shall be given to no office in particular, but to a majority vote of a quorum of voting officers. These offices established will include, but are not limited to, the following:
 
@@ -44,7 +42,7 @@ F)Information Technology (IT) Administrator: The office of IT Administrator shal
 
 12.A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.
 
-III.MEMBERSHIP
+== #III. MEMBERSHIP ==
 
 1.Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
 
@@ -64,7 +62,7 @@ III.MEMBERSHIP
 
 9.Members may accompany guests in areas designated for HSL membership, however, guests may not access or operate HSL-owned equipment designated for membership use unless said equipment has been loaned to a partnering organization that the guest is member of.
 
-IV.CODE OF CONDUCT
+== #IV. CODE OF CONDUCT ==
 
 1.Active participation in HSL functions is encouraged.  Presentations, lectures, announcements, projects, screenings, or other events are open to relevant discussion. Persistent or tangent interruptions, distractions, and unwelcome discharge of office supplies and equipment is highly discouraged.
 
@@ -76,12 +74,12 @@ IV.CODE OF CONDUCT
 
 5.Be excellent to each other, dudes.
 
-V.COMMUNITY RELATIONS
+== #V. COMMUNITY RELATIONS ==
 
 1.HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations.
 
 2.HSL assets shall remain under the complete and undivided ownership of HSL.  Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations.  A quorum vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
 
-VI.AMENDMENTS
+== #VI. AMENDMENTS ==
 
 1.Proposed amendments to these bylaws shall be submitted in physical or electronic writing to the Board of Directors at a meeting of the Board of Directors.  A majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
