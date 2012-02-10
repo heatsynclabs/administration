@@ -34,7 +34,7 @@
 <li>Any member currently being compensated by the organization for services rendered to it within the previous twelve months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director in his or her capacity in the Board of Directors; Or</li>
 <li>Any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.</li>
 </ol>
-In the event that an election results in a majority of Interested Persons elected as officers in the Board of Directors, the current officers of the Board of Directors shall vote for the removal of a sufficient number of Interested Persons to meet the quota of non-Interested persons defined in this section.  Following the removal of a sufficient number of Interested Persons, the remaining officers of the Board of Directors shall hold a special election to fill in any offices left vacant by the removal of Interested Persons, as described in 
+In the event that an election results in a majority of Interested Persons elected as officers in the Board of Directors, the current officers of the Board of Directors shall vote for the removal of a sufficient number of Interested Persons to meet the quota of non-Interested persons defined in this section.  Following the removal of a sufficient number of Interested Persons, the remaining officers of the Board of Directors shall hold a special election to fill in any offices left vacant by the removal of Interested Persons, as described in Article II, Section 7.
 </li>
 </ol>
 
