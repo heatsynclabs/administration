@@ -56,15 +56,11 @@ F)Information Technology (IT) Administrator: The office of IT Administrator shal
 
 == <li>CODE OF CONDUCT</li> ==
 
-1.Active participation in HSL functions is encouraged.  Presentations, lectures, announcements, projects, screenings, or other events are open to relevant discussion. Persistent or tangent interruptions, distractions, and unwelcome discharge of office supplies and equipment is highly discouraged.
-
-2.In order to establish a welcoming social atmosphere, no member shall derogate, harass or otherwise troll another member during HSL functions, although civil debating over technical issues or the merit of works of science fiction is welcomed.
-
-3.Violation of the Code of Conduct shall be reprimanded at the discretion of officers of the Board of Directors present at the location and time of violation.
-
-4.At HSL functions and events where HSL members are representing HSL, members are required to abide by all local, state, and federal laws.
-
-5.Be excellent to each other, dudes.
+#Active participation in HSL functions is encouraged.  Presentations, lectures, announcements, projects, screenings, or other events are open to relevant discussion. Persistent or tangent interruptions, distractions, and unwelcome discharge of office supplies and equipment is highly discouraged.
+#In order to establish a welcoming social atmosphere, no member shall derogate, harass or otherwise troll another member during HSL functions, although civil debating over technical issues or the merit of works of science fiction is welcomed.
+#Violation of the Code of Conduct shall be reprimanded at the discretion of officers of the Board of Directors present at the location and time of violation.
+#At HSL functions and events where HSL members are representing HSL, members are required to abide by all local, state, and federal laws.
+#Be excellent to each other, dudes.
 
 == <li>V. COMMUNITY RELATIONS</li> ==
 
