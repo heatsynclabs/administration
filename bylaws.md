@@ -64,9 +64,8 @@ F)Information Technology (IT) Administrator: The office of IT Administrator shal
 
 == <li>V. COMMUNITY RELATIONS</li> ==
 
-1.HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations.
-
-2.HSL assets shall remain under the complete and undivided ownership of HSL.  Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations.  A quorum vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
+#HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations.
+#HSL assets shall remain under the complete and undivided ownership of HSL.  Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations.  A quorum vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
 
 == <li>VI. AMENDMENTS</li> ==
 
