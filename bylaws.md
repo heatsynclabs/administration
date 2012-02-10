@@ -27,6 +27,7 @@
 <li>Ad-hoc committees of members may be established by an office of the Board of Directors for any purpose relevant to the responsibilities of that office.  Members of that committee may be appointed or removed at the discretion of the office that created it.</li>
 <li>All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.</li>
 <li>A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.</li>
+</ol>
 
 == <li>MEMBERSHIP</li> ==
 
