@@ -29,12 +29,19 @@
 <li>All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.</li>
 <li>A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.</li>
 <li>Each officer of the Board of Directors must be present at regular meetings of the Board of Directors, or must provide a reasonable explanation for an absence at least 24 hours prior to a scheduled meeting of the Board of Directors.  Failure to provide a reasonable explanation for an absence for two absences in a year will qualify in a breach in these bylaws and may result in the removal from office of the offending officer as described in Article II, Section 8.</li>
+</ol>
+
+== <li>INTERESTED PERSONS</li> ==
+<ol>
 <li>Limitations on Interested Persons. At all times, not more than 49% of officers in the Board of Directors may be Interested Persons. An Interested Person is defined as:
 <ol style="list-style-type:upper-alpha">
 <li>Any member currently being compensated by the organization for services rendered to it within the previous twelve months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director in his or her capacity in the Board of Directors; Or</li>
 <li>Any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.</li>
 </ol>
 In the event that an election results in a majority of Interested Persons elected as officers in the Board of Directors, the current officers of the Board of Directors shall vote for the removal of a sufficient number of Interested Persons to meet the quota of non-Interested persons defined in this section.  Following the removal of a sufficient number of Interested Persons, the remaining officers of the Board of Directors shall hold a special election to fill in any offices left vacant by the removal of Interested Persons, as described in Article II, Section 7.
+</li>
+<li>
+Where it is not reasonably practicable to obtain approval of the Board of Directors before entering into a self dealing transaction, the office of the Treasurer or Champion may approve such a transaction under the condition that, at the following meeting of the Board of Directors, a quorum of the Board of Directors determines that the transaction was in the unbiased and best interests of the HSL and that it was not reasonably practical to obtain advance approval by a full quorum of the Board of Directors.
 </li>
 </ol>
 
