@@ -29,7 +29,6 @@
 <li>A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.</li>
 
 == <li>MEMBERSHIP</li> ==
-
 #Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
 #Membership dues shall be established at the price of $50.00 USD per month, to be paid upon the beginning of the each month that membership is to be recognized.
 #Prospective members are required to have their membership approved by the Board of Directors before membership can be recognized.
