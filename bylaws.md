@@ -29,15 +29,16 @@
 <li>A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.</li>
 
 == <li>MEMBERSHIP</li> ==
-#Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
-#Membership dues shall be established at the price of $50.00 USD per month, to be paid upon the beginning of the each month that membership is to be recognized.
-#Prospective members are required to have their membership approved by the Board of Directors before membership can be recognized.
-#Members have the right to a single vote for each office in the Board of Directors in the annual election of the Board of Directors and  any rights inherited in membership for an Arizona Nonprofit Organization.
-#Members have the right to access HSL-owned equipment designated for membership use when said equipment is not in use by another member, has been loaned for use to a partnering organization, is inaccessible due to the equipment location's hours of operation, or has been designated out of operation by an officer of the Board of Directors.
-#Membership may be terminated by a majority vote of the Board of Directors in the event that the Board of Directors has found the member in question to be in violation of these bylaws, or place HSL members or assets at risk.
-#Members may terminate their membership at any time for any particular reason by submitting written notice to the Board of Directors and will be required to pay the full sum of their dues for the month that they terminated their membership.
-#Membership meetings shall be established on the first and third Thursday of the month.
-#Members may accompany guests in areas designated for HSL membership, however, guests may not access or operate HSL-owned equipment designated for membership use unless said equipment has been loaned to a partnering organization that the guest is member of.
+
+# Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
+# Membership dues shall be established at the price of $50.00 USD per month, to be paid upon the beginning of the each month that membership is to be recognized.
+# Prospective members are required to have their membership approved by the Board of Directors before membership can be recognized.
+# Members have the right to a single vote for each office in the Board of Directors in the annual election of the Board of Directors and  any rights inherited in membership for an Arizona Nonprofit Organization.
+# Members have the right to access HSL-owned equipment designated for membership use when said equipment is not in use by another member, has been loaned for use to a partnering organization, is inaccessible due to the equipment location's hours of operation, or has been designated out of operation by an officer of the Board of Directors.
+# Membership may be terminated by a majority vote of the Board of Directors in the event that the Board of Directors has found the member in question to be in violation of these bylaws, or place HSL members or assets at risk.
+# Members may terminate their membership at any time for any particular reason by submitting written notice to the Board of Directors and will be required to pay the full sum of their dues for the month that they terminated their membership.
+# Membership meetings shall be established on the first and third Thursday of the month.
+# Members may accompany guests in areas designated for HSL membership, however, guests may not access or operate HSL-owned equipment designated for membership use unless said equipment has been loaned to a partnering organization that the guest is member of.
 
 == <li>CODE OF CONDUCT</li> ==
 
