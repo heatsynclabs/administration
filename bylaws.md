@@ -29,6 +29,7 @@
 <li>All monetary expenditures provisioned by HSL's treasury will require the written signature of a minimum of two officers of the Board of Directors for approval.</li>
 <li>A quorum of the Board of Directors shall be established at two-thirds of the total number of elected officers, and will be required for voting on issues regarding membership approval, termination of membership, and election of interim-officers in the event of a departing officer as described in Article II, Section 7.</li>
 <li>Each officer of the Board of Directors must be present at regular meetings of the Board of Directors, or must provide a reasonable explanation for an absence at least 24 hours prior to a scheduled meeting of the Board of Directors.  Failure to provide a reasonable explanation for an absence for two absences in a year will qualify in a breach in these bylaws and may result in the removal from office of the offending officer as described in Article II, Section 8.</li>
+<li>The Board of Directors, in a majority vote, must approve any purchase made by HSL if the purchase total exceeds the sum of $50.</li>
 </ol>
 
 == <li>INTERESTED PERSONS</li> ==
