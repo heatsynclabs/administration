@@ -35,7 +35,7 @@ Heatsync Labs Bylaws
 
  8. An officer of the Board of Directors may be removed from office by the unanimous vote of the remaining officers in a Board of Directors meeting if it the officer in question is found to be in violation of the bylaws, fails to fulfill office responsibilities, or is found in breach of the laws of Maricopa County, the State of Arizona, the United States Federal Government, the Geneva Convention, or the United Federation of Planets.
 
- 9. The Board of Directors shall convene quarterly to conduct business and enact decisions regarding the operations and administration of HSL.
+ 9. The Board of Directors shall convene once a year on the first member meeting in April to conduct business and enact decisions regarding the operations and administration of HSL.	
 
  10. Ad-hoc committees of members may be established by an office of the Board of Directors for any purpose relevant to the responsibilities of that office. Members of that committee may be appointed or removed at the discretion of the office that created it.
 
@@ -61,7 +61,7 @@ Heatsync Labs Bylaws
 
  2. Where it is not reasonably practicable to obtain approval of the Board of Directors before entering into a self dealing transaction, the office of the Treasurer or Champion may approve such a transaction under the condition that, at the following meeting of the Board of Directors, a quorum of the Board of Directors determines that the transaction was in the unbiased and best interests of the HSL and that it was not reasonably practical to obtain advance approval by a full quorum of the Board of Directors.
 
-## Membership
+## 4. Membership
 
  1. Membership in HSL shall be open to anyone in the community with a genuine interest in the HSL's purpose, and shall not be discriminated against on the basis of color, race, gender, national origin, religion, creed, political affiliation/orientation, sexual preference/orientation, age, disability, software preference, or veteran status.
 
@@ -77,7 +77,7 @@ Heatsync Labs Bylaws
 
  7. Basic membership may be granted for a period of three months to persons of the community that the Board of Directors declare recognize as having made a significant contribution to the assets of HSL. This program shall be entitled the "Quarterly Scholarship." The Quarterly Scholarship may only be issued to the same person once in a 3-month period and must be awarded by a majority vote of the Board of Directors.
 
-## Code of Conduct
+## 5. Code of Conduct
 
  1. Active participation in HSL functions is encouraged. Presentations, lectures, announcements, projects, screenings, or other events are open to relevant discussion. Persistent or tangent interruptions, distractions, and unwelcome discharge of office supplies and equipment is highly discouraged.
 
@@ -89,10 +89,12 @@ Heatsync Labs Bylaws
 
  5. Be excellent to each other, dudes.
 
-## Community Relations
+## 6. Community Relations
 
- 1. HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations. #HSL assets shall remain under the complete and undivided ownership of HSL. Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations. A majority vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
+ 1. HSL may engage in joint ventures and partnership with other organizations in the general community where it is in the interest of all parties involved to promote the purpose of HSL as partnering organizations. 
 
-## Amendments
+ 2. HSL assets shall remain under the complete and undivided ownership of HSL. Assets, such as equipment, may be temporarily loaned for the use of other partnering organizations. A majority vote of the Board of Directors shall be required to allow partnering organizations to utilize HSL assets.
+
+## 7. Amendments
 
  1. Proposed amendments to these bylaws shall be submitted in physical or electronic writing to the Board of Directors at a meeting of the Board of Directors. A majority vote of the full quorum of officers of the Board of Directors will be required for the amendment to become enacted and effective upon completing the vote.
