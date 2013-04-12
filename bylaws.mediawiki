@@ -2,7 +2,7 @@
 == <li>NAME AND PURPOSE</li> ==
 
 # The name of this organization shall be known as HeatSync Labs.
-# The purpose of HeatSync Labs (herein referred to as “HSL”) shall be to provide a physical environment for the discussion, planning, and construction of collaborative endeavors in the application of technology as well as technological expressions of artwork.
+# The purpose of Heatsync Labs (“herein referred to as “HSL”) shall be to provide a physical space for members and the public to work on projects (especially projects involving physical creation) and to facilitate relevant education, discussion, collaboration, and planning.
 
 == <li>ORGANIZATION</li> ==
 
