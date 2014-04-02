@@ -6,10 +6,12 @@ HeatSync Labs is a community workshop where artists, engineers and hobbyists cre
 This Repository
 ---------------
 
-Contains the bylaws for the HSL organization.
+Contains the bylaws for the HSL organization. See also: http://wiki.heatsynclabs.org/wiki/Bylaws
 
 Contributing Changes
 --------------------
+
+Either open an issue (under the Issues page) or:
 
 1. Fork the repository.
 2. Make your changes.
